@@ -1,9 +1,30 @@
 
-.body {	
-		max-width: 100%;
-		height: 100%;
+body {
+	align-content: center;
+}
+
+
+	footer {
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
 	}
 
+#agentIsaac {
+	text-align: center;
+
+}
+
+.blackBar {
+	text-align: center;
+	background: black;
+	border-radius: 10px;
+}
+
+img {
+	width: 400px;
+	height: 600px;
+}
 
 .shake:hover {
   /* Start the shake animation and make the animation last for 0.5 seconds */
@@ -12,8 +33,8 @@
 
 	
 .responsive-img {
-		max-width: 100%;
-		height: 100%;
+		max-width: 100px;
+		height: 100px;
 	}
 
 @keyframes shake {
