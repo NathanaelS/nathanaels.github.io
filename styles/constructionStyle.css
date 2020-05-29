@@ -1,24 +1,25 @@
-
 body {
-	align-content: center;
+	background: #f6f3ee;
 }
-
-
-	footer {
-	display: block;
-	margin-right: auto;
-	margin-left: auto;
-	}
 
 #agentIsaac {
 	text-align: center;
 
 }
 
-.blackBar {
+footer { 
+	display: grid;
+	margin-right: auto;
+	margin-left: auto;
 	text-align: center;
 	background: black;
 	border-radius: 10px;
+/*	padding-left: 100px;*/
+	margin-top: 25px;
+	}
+
+#row3 {
+	color: white;
 }
 
 img {
@@ -35,7 +36,13 @@ img {
 .responsive-img {
 		max-width: 100px;
 		height: 100px;
+		padding: 15px;
 	}
+
+.button {
+	width: auto;
+	height: auto;
+}
 
 @keyframes shake {
 	  0% { transform: translate(1px, 1px) rotate(0deg); }
