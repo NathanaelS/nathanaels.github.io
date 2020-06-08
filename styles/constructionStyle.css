@@ -6,11 +6,15 @@ body {
 	background: #f6f3ee;
 }
 
+img {
+	height: auto;
+	width: auto;
+}
+
 #agentIsaac {
 	text-align: center;
 	padding-left: 25px;
 	display: fixed;
-
 }
 
 footer { 
@@ -29,9 +33,9 @@ footer {
 	color: white;
 }
 
-img {
-	width: 400px;
-	height: 600px;
+#isaacPicture {
+	max-width: 400px;
+	max-height: 600px;
 }
 
 .shake:hover {
@@ -39,16 +43,21 @@ img {
   animation: shake 0.5s;
 	}
 
+/*.head-img {
+	max-width: auto;
+	max-height: auto;
+	padding: 20px;
+}*/
 	
-.responsive-img {
-		max-width: 100px;
-		height: 100px;
-		padding: 15px;
+.button-img {
+	max-width: 100px;
+	max-height: 100px;
+	padding: 15px;
 	}
 
 .button {
-	width: auto;
-	height: auto;
+	max-width: 60%;
+	max-height: 60%;
 }
 
 @keyframes shake {
