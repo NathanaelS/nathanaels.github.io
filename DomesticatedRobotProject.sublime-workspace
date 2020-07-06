@@ -1,0 +1,516 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"row",
+				"grid-row-gap\tproperty"
+			],
+			[
+				"max",
+				"max-width\tproperty"
+			],
+			[
+				"margin",
+				"margin\tproperty"
+			],
+			[
+				"head",
+				"header\tTag"
+			],
+			[
+				"hea",
+				"head-img"
+			],
+			[
+				"img",
+				"img-fluid"
+			],
+			[
+				"padd",
+				"padding\tproperty"
+			],
+			[
+				"c",
+				"class\tAttr"
+			],
+			[
+				"a",
+				"auto\tmargin"
+			],
+			[
+				"grid-te",
+				"grid-template-rows\tproperty"
+			],
+			[
+				"fle",
+				"flex-start\talign-items"
+			],
+			[
+				"align",
+				"align-content\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "Package Control Messages\n========================\n\nMarkdownPreview\n---------------\n\n  [![Unix Build Status][travis-image]][travis-link]\n  [![Package Control Downloads][pc-image]][pc-link]\n  ![License][license-image]\n  \n  # Markdown Preview\n  \n  Preview and build your markdown files quickly in your web browser using [Sublime Text](https://www.sublimetext.com/) 3.\n  \n  You can use the builtin [Python Markdown][pymd] parser (offline) or use the [GitHub Markdown API][gfm-api] or [GitLab Markdown API][glfm-api] (online) for the conversion.\n  \n  ## Features\n  \n  - Markdown preview using the [python-markdown][pymd] with syntax highlighting via Pygments and optional 3rd party extensions ([pymdown-extensions][pymdownx-docs] included by default).\n  - Markdown previews via the GitHub API.\n  - Markdown previews via the GitLab API thanks to [@hadisfr][hadisfr].\n  - Ability use other external Markdown parsers.\n  - Build markdown file using Sublime Text build system.\n  - Browser preview auto reload on save if you have the [LiveReload plugin][live-reload] installed.\n  - Configurable CSS and JavaScript assets with overriding if needed.\n  - YAML support thanks to [@tommi][tommi].\n  - Clipboard selection and copy to clipboard thanks to [@hexatrope][hexatrope].\n  - MathJax support : `\\(\\frac{\\pi}{2}\\)` thanks to [@bps10][bps10].\n  - HTML template customization thanks to [@hozaka][hozaka].\n  - Embed images as base64.\n  - Strip out MultiMarkdown CriticMarkup.\n  \n  ## Documentation\n  \n  https://facelessuser.github.io/MarkdownPreview/\n  \n  ## Support\n  \n  - Any bugs about Markdown Preview please feel free to report [here][issue].\n  - And you are welcome to fork and submit pull requests.\n  \n  ## Attribution\n  \n  Markdown Preview contains a stripped down version of font awesome that is included in the default non-GitHub CSS.  It contains only the icons we currently use.\n  \n  https://fontawesome.com/license\n  \n  ## License\n  \n  The code is available at [GitHub][home] under the [MIT license][license].\n  \n  [bps10]: https://github.com/bps10\n  [gfm-api]: https://developer.github.com/v3/markdown/\n  [glfm-api]: https://docs.gitlab.com/ee/api/markdown.html\n  [hexatrope]: https://github.com/hexatrope\n  [home]: https://github.com/revolunet/sublimetext-markdown-preview\n  [hozaka]: https://github.com/hozaka\n  [hadisfr]: https://github.com/hadisfr\n  [issue]: https://github.com/facelessuser/MarkdownPreview/issues\n  [license]: http://revolunet.mit-license.org\n  [live-reload]: https://packagecontrol.io/packages/LiveReload\n  [pymd]: https://github.com/Python-Markdown/markdown\n  [pymdownx-docs]: http://facelessuser.github.io/pymdown-extensions/usage_notes/\n  [tommi]: https://github.com/tommi\n  [travis-image]: https://img.shields.io/travis/facelessuser/MarkdownPreview/master.svg\n  [travis-link]: https://travis-ci.org/facelessuser/MarkdownPreview\n  [pc-image]: https://img.shields.io/packagecontrol/dt/MarkdownPreview.svg\n  [pc-link]: https://packagecontrol.io/packages/MarkdownPreview\n  [license-image]: https://img.shields.io/badge/license-MIT-blue.svg\n",
+			"settings":
+			{
+				"buffer_size": 3062,
+				"line_ending": "Windows",
+				"name": "Package Control Messages",
+				"read_only": true,
+				"scratch": true
+			}
+		},
+		{
+			"contents": "##This is my first attempt at a markdown draft##\n\n_I am not sure what to anticipate, but this is kind of cool_\n\n",
+			"file": "/C/Users/natha/documents/drafts.md",
+			"file_size": -1,
+			"file_write_time": -1,
+			"settings":
+			{
+				"buffer_size": 112,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 2303,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "styles/constructionStyle.css",
+			"settings":
+			{
+				"buffer_size": 1317,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"git dif",
+				"Git: Diff Current File"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"preview",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"markdownsett",
+				"Preferences: MarkdownEditing Settings – User"
+			],
+			[
+				"markdownpre",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"aut",
+				"Autoprefix CSS"
+			],
+			[
+				"Snippet: ",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"mini",
+				"View: Toggle Minimap"
+			],
+			[
+				"side",
+				"View: Toggle Side Bar"
+			],
+			[
+				"toggle",
+				"View: Toggle Tabs"
+			],
+			[
+				"ayu",
+				"ayu: Activate theme"
+			],
+			[
+				"install p",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/natha/Documents/GitHub/nathanaels.github.io",
+		"/C/Users/natha/Documents/GitHub/nathanaels.github.io/styles"
+	],
+	"file_history":
+	[
+		"/C/Users/natha/Documents/GitHub/nathanaels.github.io/index.php",
+		"/C/Users/natha/AppData/Roaming/Sublime Text 3/Packages/User/Markdown.sublime-settings",
+		"/C/Users/natha/Documents/GitHub/nathanaels.github.io/styles/constructionStyle.css",
+		"/C/Users/natha/Documents/GitHub/nathanaels.github.io/testing/hopeful.html",
+		"/C/Users/natha/Documents/GitHub/nathanaels.github.io/index.html",
+		"/C/Users/natha/Documents/GitHub/nathanaels.github.io/styles/style.css",
+		"/C/Users/natha/dropbox/important/Journal.txt",
+		"/C/Users/natha/Documents/GitHub/nathanaels.github.io/pendingIndex.html",
+		"/C/Users/natha/Documents/GitHub/nathanaels.github.io/assets/homePageBackground.jpeg",
+		"/C/Users/natha/Desktop/testprivatekey.ppk",
+		"/C/Users/natha/Desktop/testpublickey",
+		"/C/Users/natha/Documents/GitHub/nathanaels.github.io/underConstruction.html",
+		"/C/Users/natha/Documents/GitHub/nathanaels.github.io/socialDistancing.html",
+		"/C/Users/natha/Documents/GitHub/nathanaels.github.io/deciccoLand.html",
+		"/C/Users/natha/documents/github/quiz-app/index.html",
+		"/C/Users/natha/Dropbox/Important/Journal.txt",
+		"/C/Users/natha/documents/github/quiz-app/js/app.js",
+		"/C/Users/natha/Documents/GitHub/nathanaels.github.io/style/style.css",
+		"/C/Users/natha/Documents/GitHub/nathanaels.github.io/assets/doemsticatedRobotLogo.JPG",
+		"/C/Users/natha/Desktop/Volume2.bat"
+	],
+	"find":
+	{
+		"height": 29.0
+	},
+	"find_in_files":
+	{
+		"height": 134.0,
+		"where_history":
+		[
+			"C:\\Users\\natha\\Documents\\GitHub\\nathanaels.github.io\\assets"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"shake",
+			"responsive",
+			"instagramLogo",
+			"blue",
+			">"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3062,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								215,
+								215
+							]
+						],
+						"settings":
+						{
+							"auto_indent": false,
+							"default_dir": "C:\\Users\\natha\\Documents\\GitHub\\nathanaels.github.io\\styles",
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 2,
+							"tab_width": 2,
+							"translate_tabs_to_spaces": true,
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/Users/natha/documents/drafts.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 112,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								112,
+								112
+							]
+						],
+						"settings":
+						{
+							"parser": "markdown",
+							"syntax": "Packages/MarkdownEditing/Markdown.sublime-syntax",
+							"target": "browser"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2303,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2109,
+								2075
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 378.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "styles/constructionStyle.css",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 1317,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								53,
+								60
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 51.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.SublimeLinter Messages":
+	{
+		"height": 132.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "DomesticatedRobotProject.sublime-project",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"inde",
+				"index.html"
+			],
+			[
+				"index",
+				"index.php"
+			],
+			[
+				"st",
+				"nathanaels.github.io\\styles\\style.css"
+			],
+			[
+				"ind",
+				"nathanaels.github.io\\index.html"
+			],
+			[
+				"cons",
+				"nathanaels.github.io\\styles\\constructionStyle.css"
+			],
+			[
+				"pe",
+				"nathanaels.github.io\\pendingIndex.html"
+			],
+			[
+				"event",
+				"nathanaels.github.io\\events.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "draft",
+		"selected_items":
+		[
+			[
+				"draft",
+				"C:\\Users\\natha\\Dropbox\\Important\\Docs\\Archive\\2020\\Drafts\\DraftsSublimeProject.sublime-project"
+			],
+			[
+				"draf",
+				"C:\\Users\\natha\\Dropbox\\Important\\Docs\\Archive\\2020\\Drafts\\DraftsSublimeProject.sublime-project"
+			],
+			[
+				"dra",
+				"C:\\Users\\natha\\Dropbox\\Important\\Docs\\Archive\\2020\\Drafts\\DraftsSublimeProject.sublime-project"
+			],
+			[
+				"docs",
+				"C:\\Users\\natha\\Documents\\GitHub\\nathanaels.github.io\\DomesticatedRobotProject.sublime-project"
+			],
+			[
+				"dom",
+				"C:\\Users\\natha\\Documents\\GitHub\\nathanaels.github.io\\DomesticatedRobotProject.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 245.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
